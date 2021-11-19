@@ -24,7 +24,7 @@ SECRET_KEY = 'aaq+b9dzj)y1vsa--*3cwf5ipk(!(ld#p-@kedcm!45texjia('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','ananya-website.herokuapp.com']
 
 # Application definition
 
