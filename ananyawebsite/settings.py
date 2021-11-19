@@ -24,7 +24,7 @@ SECRET_KEY = 'aaq+b9dzj)y1vsa--*3cwf5ipk(!(ld#p-@kedcm!45texjia('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://adarshbhardwaj27.github.io/ananyawebsite/']
 
 # Application definition
 
